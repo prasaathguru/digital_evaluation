@@ -1,0 +1,8 @@
+pip
+streamlit
+altair
+Pillow
+requests
+pytesseract
+numpy
+opencv-python-headless
